@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-13T10:34:33 IST" name="Default suite" finished-at="2024-12-13T10:35:01 IST" duration-ms="27982">
+    <groups>
+    </groups>
+    <test started-at="2024-12-13T10:34:33 IST" name="Default test" finished-at="2024-12-13T10:35:01 IST" duration-ms="27982">
+      <class name="com.vstl.scripts.LoginLogoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.vstl.scripts.LoginLogoutTest@3270d194]" started-at="2024-12-13T10:34:33 IST" name="setup" finished-at="2024-12-13T10:34:50 IST" duration-ms="16925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="preconditio()[pri:0, instance:com.vstl.scripts.LoginLogoutTest@3270d194]" started-at="2024-12-13T10:34:50 IST" name="preconditio" finished-at="2024-12-13T10:34:51 IST" duration-ms="730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preconditio -->
+        <test-method signature="TCID_01_VerifyValidLoginCredentials()[pri:0, instance:com.vstl.scripts.LoginLogoutTest@3270d194]" started-at="2024-12-13T10:34:51 IST" name="TCID_01_VerifyValidLoginCredentials" finished-at="2024-12-13T10:34:55 IST" duration-ms="4689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TCID_01_VerifyValidLoginCredentials -->
+        <test-method is-config="true" signature="preconditio()[pri:0, instance:com.vstl.scripts.LoginLogoutTest@3270d194]" started-at="2024-12-13T10:34:55 IST" name="preconditio" finished-at="2024-12-13T10:34:56 IST" duration-ms="821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preconditio -->
+        <test-method signature="TCID_02_VerifyValidUsernameEmptyPassword()[pri:0, instance:com.vstl.scripts.LoginLogoutTest@3270d194]" started-at="2024-12-13T10:34:56 IST" name="TCID_02_VerifyValidUsernameEmptyPassword" finished-at="2024-12-13T10:34:58 IST" duration-ms="1745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TCID_02_VerifyValidUsernameEmptyPassword -->
+        <test-method is-config="true" signature="preconditio()[pri:0, instance:com.vstl.scripts.LoginLogoutTest@3270d194]" started-at="2024-12-13T10:34:58 IST" name="preconditio" finished-at="2024-12-13T10:34:59 IST" duration-ms="832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preconditio -->
+        <test-method signature="TCID_03_VerifyEmptyUsernameValidPassword()[pri:0, instance:com.vstl.scripts.LoginLogoutTest@3270d194]" started-at="2024-12-13T10:34:59 IST" name="TCID_03_VerifyEmptyUsernameValidPassword" finished-at="2024-12-13T10:35:00 IST" duration-ms="1567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TCID_03_VerifyEmptyUsernameValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.vstl.scripts.LoginLogoutTest@3270d194]" started-at="2024-12-13T10:35:00 IST" name="tearDown" finished-at="2024-12-13T10:35:01 IST" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.vstl.scripts.LoginLogoutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
